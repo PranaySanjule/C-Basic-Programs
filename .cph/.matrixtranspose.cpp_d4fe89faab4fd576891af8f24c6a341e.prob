@@ -1,0 +1,1 @@
+{"name":"Local: matrixtranspose","url":"c:\\C++\\matrixtranspose.cpp","tests":[{"id":1624101955010,"input":"3 3\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\matrixtranspose.cpp","group":"local","local":true}

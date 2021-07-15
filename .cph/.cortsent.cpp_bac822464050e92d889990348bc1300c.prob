@@ -1,0 +1,1 @@
+{"name":"Local: cortsent","url":"c:\\C++\\cortsent.cpp","tests":[{"id":1622375075330,"input":"3\n1 aN\n2 ab NO\n3 A N D","output":"NO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\cortsent.cpp","group":"local","local":true}

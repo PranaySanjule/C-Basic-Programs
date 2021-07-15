@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "stdio.h": "c",
+        "*.tcc": "cpp"
+    },
+    "screencastMode.fontSize": 20,
+    "screencastMode.keyboardOverlayTimeout": 500,
+    "screencastMode.verticalOffset": 2
+}

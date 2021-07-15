@@ -1,0 +1,1 @@
+{"name":"Local: factorial","url":"c:\\C++\\factorial.cpp","tests":[{"id":1621425995388,"input":"5","output":"120"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C++\\factorial.cpp","group":"local","local":true}
